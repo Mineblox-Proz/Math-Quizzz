@@ -1,0 +1,66 @@
+body {
+    background-image:url(Gaming.jpg)
+}
+
+.h11 {
+    color: white;
+}
+
+.head1{
+    color: white;
+}
+
+.lab1 {
+    color: white;
+}
+
+.username1 {
+width:250px;
+height:35px;
+border-radius: 90px;
+}
+
+.h33{
+    color: white;
+}
+
+.leb1 {
+    color: white;
+}
+
+.username2 {
+    width:250px;
+    height:35px;
+    border-radius: 90px;
+    }
+
+
+    .player1_login {
+        width: 650px;
+        height:200px;
+        background-color:gray;
+        padding-top:45px;
+        border-radius:25px;
+        box-shadow:black;
+    }
+
+    .player2_login {
+        width:650px;
+        height:200px;
+        background-color:gray;
+        padding-top:45px;
+        border-radius:25px;
+    }
+
+    .button {
+        width:200px;
+        height:55px;
+        border-radius:50px;
+        background-color:rgb(71, 151, 189);
+        transition: ease-in 0.3s;
+    }
+
+    .button:hover {
+        cursor:pointer;
+        box-shadow: inset 300px 0 0 0 #0accd3
+    }
